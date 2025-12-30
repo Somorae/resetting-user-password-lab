@@ -22,13 +22,13 @@ Demonstrate administrative control of user accounts by resetting a domain user p
 
 ![Reset AD step 3 ](https://github.com/user-attachments/assets/24a64a77-a9b7-4c16-b10f-a24c54a5b20b)
 
-6. Right-clicked the user account **Jane Doe** and selected **Reset Password**.
+5. Right-clicked the user account **Jane Doe** and selected **Reset Password**.
 ![Reset AD step 4](https://github.com/user-attachments/assets/521bd4b8-89e7-4b15-bb88-fd0fcdbb0d2b)
 
-7. Entered and confirmed a new password.
+6. Entered and confirmed a new password.
 <img width="654" height="440" alt="Screenshot 2025-12-30 130307" src="https://github.com/user-attachments/assets/cf63ac81-c73d-4b58-aa5f-318a4128c13f" />
 
-8. Applied the change successfully.
+7. Applied the change successfully.
 ![Reset AD step 5](https://github.com/user-attachments/assets/b08fae00-e32d-4a81-b027-f607d401ab5a)
 
 ## ✅ Outcome
